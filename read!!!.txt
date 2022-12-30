@@ -1,0 +1,6 @@
+файл .env обязательно в gitignore!!!
+
+./.env
+.env
+docker/mysql
+.idea
